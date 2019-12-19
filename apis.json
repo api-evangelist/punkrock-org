@@ -1,0 +1,52 @@
+{
+    "name": "Punkrock.org",
+    "description": "A Community of Punk Rock Bands, Punk News, Punk Music Videos, Articles, Blogs, Photos and More...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/punk-rock-org.png",
+    "tags": [
+        "bands",
+        "communities",
+        "have api",
+        "music",
+        "sharing",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/punkrock-org\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Punkrock.org",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/punk-rock-org.png",
+            "humanURL": "http:\/\/punkrock.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/punkrock-org-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/punkrock-org-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/punkrock.org\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/punkrock.org\/apps\/developer\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/punkrock.org"
+        }
+    ]
+}
